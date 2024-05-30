@@ -104,4 +104,4 @@ theme: fluid
 deploy:
   type: 'git'
   repo: 'https://github.com/fightinglucida/fightinglucida.github.io.git'
-  branch: master
+  branch: main
