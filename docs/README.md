@@ -1,3 +1,3 @@
-# Headline
+# 孤城资源库
 
-> An awesome project.
+> 关于这个资源库的介绍
