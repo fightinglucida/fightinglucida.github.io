@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>孤城资源库</title>
+  <link rel="icon" href="/_images/gucheng.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -12,11 +13,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
+      name: '孤城资源库',
       repo: '',
       loadSidebar:"/_sidebar.md",
+      autoHeader: true,
+      mergeNavbar: true,
       subMaxLevel:2, 
       // 最大子目录深度为2
+      notFoundPage: true,
       alias:{
         "/.*/_sidebar.md":"/_sidebar.md"
       }
