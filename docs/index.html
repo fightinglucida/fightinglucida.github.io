@@ -17,14 +17,14 @@
     window.$docsify = {
       name: '孤城资源库',
       repo: '',
-      loadSidebar:"/_sidebar.md",
+      loadSidebar:true,
       autoHeader: true,
       mergeNavbar: true,
-      subMaxLevel:2, 
+      subMaxLevel:3, 
       // 最大子目录深度为2
       notFoundPage: true,
       alias:{
-        "/.*/_sidebar.md":"/_sidebar.md"
+        '/.*/_sidebar.md': '/_sidebar.md',
       },
       footer: {
         copy: '<span>▍ 孤城资源库 </span>',
