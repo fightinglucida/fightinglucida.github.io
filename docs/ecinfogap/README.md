@@ -5,6 +5,15 @@
 
 ## 2024年11月
 
+- 241107
+    - [做产品必须思考的2点](https://t.me/ecinfogap/27)
+    - [深圳年收入90W，要不要回老家？](https://t.me/ecinfogap/28)
+    - [为什么北方企业更容易腐败](https://t.me/ecinfogap/29)
+    - [大部分电商总监都是水货](https://t.me/ecinfogap/30)
+    - [找人才只找高手](https://t.me/ecinfogap/31)
+    - [川普身上的网红特征](https://t.me/ecinfogap/32)
+    - [中年人不能太爹味，有可能扼杀创新](https://t.me/ecinfogap/33)
+
 - 241106
     - [非常好用的亚马逊新专利发布软件](https://t.me/ecinfogap/8)
     - [普通人消耗大量精力在学校学没有的知识，到底值不值](https://t.me/ecinfogap/7)
